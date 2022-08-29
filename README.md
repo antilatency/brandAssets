@@ -14,7 +14,7 @@ png | svg | image
 
 png | svg | image
 --- | --- | ---
-[ALogo.png](CopilotIconRound.png) | [ALogo.svg](CopilotLogoHorizontalLight.svg) | <img src="ALogo.png" width="128px"/>
+[ALogo.png](ALogo.png) | [ALogo.svg](ALogo.svg) | <img src="ALogo.png" width="128px"/>
 
 ## Colors
 
@@ -41,7 +41,16 @@ Name | Usage | link
 Akrobat font | The font is used for headlines | [Fontfabric](https://www.fontfabric.com/fonts/akrobat)
 Roboto | Basic text font | [Google Fonts](https://fonts.google.com/specimen/Roboto?category=Sans+Serif,Display&subset=cyrillic&preview.text=no%20flip%20flops&preview.text_type=custom&query=roboto)
 
-<!--# Products
+# Products
 
-product | link
---- | --- -->
+[FloorTracking area](https://github.com/antilatency/brandAssets/tree/main/FloorTrackingArea)
+
+[CeilingTrackingArea](https://github.com/antilatency/brandAssets/tree/main/CeilingTrackingArea)
+
+[TrussTrackingArea](https://github.com/antilatency/brandAssets/tree/main/TrussTrackingArea)
+
+[StereoGlasses](https://github.com/antilatency/brandAssets/tree/main/StereoGlasses)
+
+[Stylus](https://github.com/antilatency/brandAssets/tree/main/Stylus)
+
+[VPbox](https://github.com/antilatency/brandAssets/tree/main/VPbox)
