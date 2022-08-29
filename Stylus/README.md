@@ -5,4 +5,4 @@
 ### Discord Icon
 png | image
 --- | --- 
-[Stylus.png](Stylus.png) | <img src="Stylus.png" width="128px"/>
+[StylusIcon.png](StylusIcon.png) | <img src="StylusIcon.png" width="128px"/>
